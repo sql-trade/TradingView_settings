@@ -10,7 +10,10 @@ https://de.tradingview.com/chart/yozquJsl   new Layout
 
 ---------------------
 open the link
+
 click [copy]
+
 rename the "Chart Layout"
+
 
 done  :-)
